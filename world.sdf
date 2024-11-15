@@ -1691,7 +1691,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/armchair/2/meshes/armchair.dae</uri>
+              <uri>file://models/furniture/armchair/2/meshes/armchair.dae</uri>
             </mesh>
           </geometry>
           <material>
@@ -1699,9 +1699,9 @@
             <specular>1 1 1 1</specular>
             <pbr>
               <metal>
-                <albedo_map>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/armchair/2/materials/textures/Armchair_Albedo.png</albedo_map>
-                <normal_map>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/armchair/2/materials/textures/Armchair_Normal.png</normal_map>
-                <roughness_map>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/armchair/2/materials/textures/Armchair_Roughness.png</roughness_map>
+                <albedo_map>file://models/furniture/armchair/2/materials/textures/Armchair_Albedo.png</albedo_map>
+                <normal_map>file://models/furniture/armchair/2/materials/textures/Armchair_Normal.png</normal_map>
+                <roughness_map>file://models/furniture/armchair/2/materials/textures/Armchair_Roughness.png</roughness_map>
               </metal>
             </pbr>
           </material>
@@ -1865,7 +1865,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/bed/1/meshes/bed.dae</uri>
+              <uri>file://models/furniture/bed/1/meshes/bed.dae</uri>
             </mesh>
           </geometry>
           <material>
@@ -1873,9 +1873,9 @@
             <specular>1 1 1 1</specular>
             <pbr>
               <metal>
-                <albedo_map>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/bed/1/materials/textures/Bed_Albedo.png</albedo_map>
-                <normal_map>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/bed/1/materials/textures/Bed_Normal.png</normal_map>
-                <roughness_map>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/bed/1/materials/textures/Bed_Roughness.png</roughness_map>
+                <albedo_map>file://models/furniture/bed/1/materials/textures/Bed_Albedo.png</albedo_map>
+                <normal_map>file://models/furniture/bed/1/materials/textures/Bed_Normal.png</normal_map>
+                <roughness_map>file://models/furniture/bed/1/materials/textures/Bed_Roughness.png</roughness_map>
               </metal>
             </pbr>
           </material>
@@ -1979,14 +1979,14 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/classcbed/3/meshes/ClassCBed.glb</uri>
+              <uri>file://models/furniture/classcbed/3/meshes/ClassCBed.glb</uri>
             </mesh>
           </geometry>
         </visual>
         <collision name='collision'>
           <geometry>
             <mesh>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/classcbed/3/meshes/ClassCBed.glb</uri>
+              <uri>file://models/furniture/classcbed/3/meshes/ClassCBed.glb</uri>
             </mesh>
           </geometry>
         </collision>
@@ -2014,14 +2014,14 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/classcbed/3/meshes/ClassCBed.glb</uri>
+              <uri>file://models/furniture/classcbed/3/meshes/ClassCBed.glb</uri>
             </mesh>
           </geometry>
         </visual>
         <collision name='collision'>
           <geometry>
             <mesh>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/classcbed/3/meshes/ClassCBed.glb</uri>
+              <uri>file://models/furniture/classcbed/3/meshes/ClassCBed.glb</uri>
             </mesh>
           </geometry>
         </collision>
@@ -2049,14 +2049,14 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/classcbed/3/meshes/ClassCBed.glb</uri>
+              <uri>file://models/furniture/classcbed/3/meshes/ClassCBed.glb</uri>
             </mesh>
           </geometry>
         </visual>
         <collision name='collision'>
           <geometry>
             <mesh>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/classcbed/3/meshes/ClassCBed.glb</uri>
+              <uri>file://models/furniture/classcbed/3/meshes/ClassCBed.glb</uri>
             </mesh>
           </geometry>
         </collision>
@@ -2084,14 +2084,14 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/classcbed/3/meshes/ClassCBed.glb</uri>
+              <uri>file://models/furniture/classcbed/3/meshes/ClassCBed.glb</uri>
             </mesh>
           </geometry>
         </visual>
         <collision name='collision'>
           <geometry>
             <mesh>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/classcbed/3/meshes/ClassCBed.glb</uri>
+              <uri>file://models/furniture/classcbed/3/meshes/ClassCBed.glb</uri>
             </mesh>
           </geometry>
         </collision>
@@ -2119,7 +2119,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/normalbed/2/meshes/bed.obj</uri>
+              <uri>file://models/furniture/normalbed/2/meshes/bed.obj</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -2127,7 +2127,7 @@
         <collision name='collision'>
           <geometry>
             <mesh>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/normalbed/2/meshes/bed.obj</uri>
+              <uri>file://models/furniture/normalbed/2/meshes/bed.obj</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -2157,14 +2157,14 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/bedsidetable2/2/meshes/BedsideTable2_Col.obj</uri>
+              <uri>file://models/furniture/bedsidetable2/2/meshes/BedsideTable2_Col.obj</uri>
             </mesh>
           </geometry>
         </visual>
         <collision name='collision'>
           <geometry>
             <mesh>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/bedsidetable2/2/meshes/BedsideTable2_Col.obj</uri>
+              <uri>file://models/furniture/bedsidetable2/2/meshes/BedsideTable2_Col.obj</uri>
             </mesh>
           </geometry>
         </collision>
@@ -2191,7 +2191,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/bathtub/1/meshes/bathtub.dae</uri>
+              <uri>file://models/furniture/bathtub/1/meshes/bathtub.dae</uri>
             </mesh>
           </geometry>
           <material>
@@ -2199,10 +2199,10 @@
             <specular>1 1 1 1</specular>
             <pbr>
               <metal>
-                <albedo_map>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/bathtub/1/materials/textures/Bathtub_Albedo.jpg</albedo_map>
-                <normal_map>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/bathtub/1/materials/textures/Bathtub_Normal.png</normal_map>
-                <roughness_map>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/bathtub/1/materials/textures/Bathtub_Roughness.jpg</roughness_map>
-                <metalness_map>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/bathtub/1/materials/textures/Bathtub_Metalness.jpg</metalness_map>
+                <albedo_map>file://models/furniture/bathtub/1/materials/textures/Bathtub_Albedo.jpg</albedo_map>
+                <normal_map>file://models/furniture/bathtub/1/materials/textures/Bathtub_Normal.png</normal_map>
+                <roughness_map>file://models/furniture/bathtub/1/materials/textures/Bathtub_Roughness.jpg</roughness_map>
+                <metalness_map>file://models/furniture/bathtub/1/materials/textures/Bathtub_Metalness.jpg</metalness_map>
               </metal>
             </pbr>
           </material>
@@ -2276,7 +2276,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/toilet/2/meshes/toilet.obj</uri>
+              <uri>file://models/furniture/toilet/2/meshes/toilet.obj</uri>
               <scale>1.75 1.75 1.75</scale>
             </mesh>
           </geometry>
@@ -2284,7 +2284,7 @@
         <collision name='collision'>
           <geometry>
             <mesh>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/toilet/2/meshes/toilet.obj</uri>
+              <uri>file://models/furniture/toilet/2/meshes/toilet.obj</uri>
               <scale>1.75 1.75 1.75</scale>
             </mesh>
           </geometry>
@@ -2313,7 +2313,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/toilet/2/meshes/toilet.obj</uri>
+              <uri>file://models/furniture/toilet/2/meshes/toilet.obj</uri>
               <scale>1.75 1.75 1.75</scale>
             </mesh>
           </geometry>
@@ -2321,7 +2321,7 @@
         <collision name='collision'>
           <geometry>
             <mesh>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/toilet/2/meshes/toilet.obj</uri>
+              <uri>file://models/furniture/toilet/2/meshes/toilet.obj</uri>
               <scale>1.75 1.75 1.75</scale>
             </mesh>
           </geometry>
@@ -2351,7 +2351,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/oven/1/meshes/oven.dae</uri>
+              <uri>file://models/furniture/oven/1/meshes/oven.dae</uri>
               <submesh>
                 <name>Oven</name>
                 <center>false</center>
@@ -2363,10 +2363,10 @@
             <specular>1 1 1 1</specular>
             <pbr>
               <metal>
-                <albedo_map>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/oven/1/materials/textures/Oven_Albedo.png</albedo_map>
-                <normal_map>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/oven/1/materials/textures/Oven_Normal.png</normal_map>
-                <roughness_map>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/oven/1/materials/textures/Oven_Roughness.png</roughness_map>
-                <metalness_map>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/oven/1/materials/textures/Oven_Metalness.png</metalness_map>
+                <albedo_map>file://models/furniture/oven/1/materials/textures/Oven_Albedo.png</albedo_map>
+                <normal_map>file://models/furniture/oven/1/materials/textures/Oven_Normal.png</normal_map>
+                <roughness_map>file://models/furniture/oven/1/materials/textures/Oven_Roughness.png</roughness_map>
+                <metalness_map>file://models/furniture/oven/1/materials/textures/Oven_Metalness.png</metalness_map>
               </metal>
             </pbr>
           </material>
@@ -2375,7 +2375,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/oven/1/meshes/oven.dae</uri>
+              <uri>file://models/furniture/oven/1/meshes/oven.dae</uri>
               <submesh>
                 <name>Glass</name>
                 <center>false</center>
@@ -2387,7 +2387,7 @@
             <specular>1 1 1 1</specular>
             <pbr>
               <metal>
-                <albedo_map>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/oven/1/materials/textures/Glass.png</albedo_map>
+                <albedo_map>file://models/furniture/oven/1/materials/textures/Glass.png</albedo_map>
                 <roughness>0.1</roughness>
               </metal>
             </pbr>
@@ -2433,14 +2433,14 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/fridge/2/meshes/Fridge.obj</uri>
+              <uri>file://models/furniture/fridge/2/meshes/Fridge.obj</uri>
             </mesh>
           </geometry>
         </visual>
         <collision name='collision'>
           <geometry>
             <mesh>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/fridge/2/meshes/Fridge_Col.obj</uri>
+              <uri>file://models/furniture/fridge/2/meshes/Fridge_Col.obj</uri>
             </mesh>
           </geometry>
         </collision>
@@ -2468,14 +2468,14 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/whitecabinet/2/meshes/WhiteCabinet.obj</uri>
+              <uri>file://models/furniture/whitecabinet/2/meshes/WhiteCabinet.obj</uri>
             </mesh>
           </geometry>
         </visual>
         <collision name='collision'>
           <geometry>
             <mesh>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/whitecabinet/2/meshes/WhiteCabinet.obj</uri>
+              <uri>file://models/furniture/whitecabinet/2/meshes/WhiteCabinet.obj</uri>
             </mesh>
           </geometry>
         </collision>
@@ -2503,14 +2503,14 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/whitecabinet/2/meshes/WhiteCabinet.obj</uri>
+              <uri>file://models/furniture/whitecabinet/2/meshes/WhiteCabinet.obj</uri>
             </mesh>
           </geometry>
         </visual>
         <collision name='collision'>
           <geometry>
             <mesh>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/whitecabinet/2/meshes/WhiteCabinet.obj</uri>
+              <uri>file://models/furniture/whitecabinet/2/meshes/WhiteCabinet.obj</uri>
             </mesh>
           </geometry>
         </collision>
@@ -2538,7 +2538,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/dining table/1/meshes/diningtable.dae</uri>
+              <uri>file://models/furniture/dining table/1/meshes/diningtable.dae</uri>
               <submesh>
                 <name>Wood</name>
                 <center>false</center>
@@ -2550,9 +2550,9 @@
             <specular>1 1 1 1</specular>
             <pbr>
               <metal>
-                <albedo_map>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/dining table/1/materials/textures/Wood_Albedo.png</albedo_map>
-                <normal_map>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/dining table/1/materials/textures/Wood_Normal.png</normal_map>
-                <roughness_map>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/dining table/1/materials/textures/Wood_Roughness.png</roughness_map>
+                <albedo_map>file://models/furniture/dining table/1/materials/textures/Wood_Albedo.png</albedo_map>
+                <normal_map>file://models/furniture/dining table/1/materials/textures/Wood_Normal.png</normal_map>
+                <roughness_map>file://models/furniture/dining table/1/materials/textures/Wood_Roughness.png</roughness_map>
               </metal>
             </pbr>
           </material>
@@ -2561,7 +2561,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/dining table/1/meshes/diningtable.dae</uri>
+              <uri>file://models/furniture/dining table/1/meshes/diningtable.dae</uri>
               <submesh>
                 <name>Black</name>
                 <center>false</center>
@@ -2767,7 +2767,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/dining chair/1/meshes/diningchair.dae</uri>
+              <uri>file://models/furniture/dining chair/1/meshes/diningchair.dae</uri>
             </mesh>
           </geometry>
           <material>
@@ -2775,9 +2775,9 @@
             <specular>1 1 1 1</specular>
             <pbr>
               <metal>
-                <albedo_map>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/dining chair/1/materials/textures/DiningChair_Albedo.jpg</albedo_map>
-                <normal_map>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/dining chair/1/materials/textures/DiningChair_Normal.jpg</normal_map>
-                <roughness_map>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/dining chair/1/materials/textures/DiningChair_Roughness.jpg</roughness_map>
+                <albedo_map>file://models/furniture/dining chair/1/materials/textures/DiningChair_Albedo.jpg</albedo_map>
+                <normal_map>file://models/furniture/dining chair/1/materials/textures/DiningChair_Normal.jpg</normal_map>
+                <roughness_map>file://models/furniture/dining chair/1/materials/textures/DiningChair_Roughness.jpg</roughness_map>
               </metal>
             </pbr>
           </material>
@@ -2896,7 +2896,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/dining chair/1/meshes/diningchair.dae</uri>
+              <uri>file://models/furniture/dining chair/1/meshes/diningchair.dae</uri>
             </mesh>
           </geometry>
           <material>
@@ -2904,9 +2904,9 @@
             <specular>1 1 1 1</specular>
             <pbr>
               <metal>
-                <albedo_map>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/dining chair/1/materials/textures/DiningChair_Albedo.jpg</albedo_map>
-            <normal_map>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/dining chair/1/materials/textures/DiningChair_Normal.jpg</normal_map>
-            <roughness_map>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/dining chair/1/materials/textures/DiningChair_Roughness.jpg</roughness_map>
+                <albedo_map>file://models/furniture/dining chair/1/materials/textures/DiningChair_Albedo.jpg</albedo_map>
+            <normal_map>file://models/furniture/dining chair/1/materials/textures/DiningChair_Normal.jpg</normal_map>
+            <roughness_map>file://models/furniture/dining chair/1/materials/textures/DiningChair_Roughness.jpg</roughness_map>
               </metal>
             </pbr>
           </material>
@@ -3011,7 +3011,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/dining chair/1/meshes/diningchair.dae</uri>
+              <uri>file://models/furniture/dining chair/1/meshes/diningchair.dae</uri>
             </mesh>
           </geometry>
           <material>
@@ -3019,9 +3019,9 @@
             <specular>1 1 1 1</specular>
             <pbr>
               <metal>
-                <albedo_map>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/dining chair/1/materials/textures/DiningChair_Albedo.jpg</albedo_map>
-            <normal_map>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/dining chair/1/materials/textures/DiningChair_Normal.jpg</normal_map>
-            <roughness_map>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/dining chair/1/materials/textures/DiningChair_Roughness.jpg</roughness_map>
+                <albedo_map>file://models/furniture/dining chair/1/materials/textures/DiningChair_Albedo.jpg</albedo_map>
+            <normal_map>file://models/furniture/dining chair/1/materials/textures/DiningChair_Normal.jpg</normal_map>
+            <roughness_map>file://models/furniture/dining chair/1/materials/textures/DiningChair_Roughness.jpg</roughness_map>
               </metal>
             </pbr>
           </material>
@@ -3140,7 +3140,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/dining chair/1/meshes/diningchair.dae</uri>
+              <uri>file://models/furniture/dining chair/1/meshes/diningchair.dae</uri>
             </mesh>
           </geometry>
           <material>
@@ -3148,9 +3148,9 @@
             <specular>1 1 1 1</specular>
             <pbr>
               <metal>
-                <albedo_map>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/dining chair/1/materials/textures/DiningChair_Albedo.jpg</albedo_map>
-            <normal_map>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/dining chair/1/materials/textures/DiningChair_Normal.jpg</normal_map>
-            <roughness_map>file:///home/sa/.ignition/fuel/fuel.gazebosim.org/openrobotics/models/dining chair/1/materials/textures/DiningChair_Roughness.jpg</roughness_map>
+                <albedo_map>file://models/furniture/dining chair/1/materials/textures/DiningChair_Albedo.jpg</albedo_map>
+            <normal_map>file://models/furniture/dining chair/1/materials/textures/DiningChair_Normal.jpg</normal_map>
+            <roughness_map>file://models/furniture/dining chair/1/materials/textures/DiningChair_Roughness.jpg</roughness_map>
               </metal>
             </pbr>
           </material>
